@@ -1,0 +1,15 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "almeida-cv"
+title = "memoally - CV"
+
+[params]
+colorDark = "#111"
+colorLight = "#ccc"
+colorPageBackground = "#eee"
+colorPrimary = "#f47d2d"
+colorPrimaryText = "#111"
+colorRightColumnBackground = "#eee"
+colorSecondary = "#333"
+pages = 3

@@ -1,0 +1,217 @@
+BasicInfo:
+  FirstName: Mehmet Ali
+  LastName: Şahin
+  Photo: img/memoally.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +90 507 762 6392
+    - Icon: fas fa-envelope
+      Info: memoally@hotmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Turkey / Ankara
+
+Profile: I am a software engineer with 10+ years of experience in embedded software and graphical user interface (GUI) development. My main objective is to further develop myself as a software engineer. <br /> I am experienced in C, C++ & C# programming languages in many software development environment. I have experienced in embedded system software with multi core DSPs & MCUs, Software Development Life Cycle (SDLC), object oriented programming (OOP), Real Time Operating Systems (RTOS), Unified Modelling Language (UML), design patterns, state machines, data structures, multithreading & asynchronous programming, compiling & linking processes, device drivers, APIs, HAL, IRQs & ISRs, using debugging tools in many projects. I also have a little embedded linux & parallel programming with CUDA experience in different projects. I am also familiar with software version tracking tools like Tortoise SVN, Gitlab & agile software development / continuous integration tools like Jira, Jenkins. <br /> I have high level knowledge of electro optical / thermal imaging systems (NUC, BPR, CLAHE), laser defense systems & INS/GPS systems. Also have knowledge about hardware test setups / ATEs. I have graduate level electronics hardware design and debugging skills.<br /> I am eager to learn new technologies and information. Therefore, I attended many on-site educations, and  in my free time, I follow some online software courses over Udemy, Coursera, Youtube, Medium etc. platforms.
+
+Experience:
+  - Employer: Milsoft Yazılım Teknolojileri A.Ş.
+    Place: Ankara, TR
+    Positions:
+      - Title: Senior Software Engineer
+        Date: April 2021 - Present
+        Details:
+          - Design and development in Link 11/16/22 Tactical Data Link System working on top of DDS (data distribution system) middleware (working on Solaris, Linux and Windows operating systems)
+          - Mil-Std-498 based software development and testing
+          - Integration activities with Command & Control Systems.
+          - Development of an Automated Test Tool for DDS based applications and for Tactical Data Link Systems.
+        Badges: ['VxWorks 653', 'C/C++', 'DDS', 'Agile']
+        
+  - Employer: Aselsan MGEO Division
+    Place: Ankara, TR
+    Positions:
+      - Title: Senior Embedded Software Engineer
+        Date: Sep 2018 - March 2021
+        Details:
+          - I worked as an embedded software developer for imaging & targeting systems (electro optical FLIR systems). These devices are high performance electro-optical reconnaissance, surveillance and targeting system designed for fixed-wing and rotary-wing airborne platforms, including Unmanned Air Systems (UASs), helicopters and aircrafts. I was responsible for;
+          - designing & developing whole system management & communication software (integrating hardware components to software, defining & controlling RTOS tasks, controlling shared memory usage over DSP cores, implementing symbology & tracking software details, controlling of 3 different cameras, controlling all the logic, all of the communication of these units, and controlling of some other sub modules, logging system internals…)
+          - testing software with debugging tools
+          - developing GUIs to test systems or use as simulators
+          - documenting, maintaining & researching
+          - guiding junior engineers
+        Badges: ['TI RTOS', 'C/C++', 'C#', 'OOP', 'Bash', 'Baremetal', 'Agile']
+      - Title: Senior Embedded Software Engineer
+        Date: Sep 2016 - Sep 2018
+        Details:
+          - I worked as an embedded software developer for laser range finder & target locator / designator systems. The purposes of these devices are designating (marking) the target with a special frequency laser & performing the functions of distance measurement, automatic calculation of coordinates, and taking of photographs. I was responsible for;
+          - designing & developing whole system management & communication software (integrating hardware components to software, controlling the current of laser diodes which are located on the part of laser transmitter, controlling & communicating with sub systems such as DMC (digital magnetic compass), military GPS module, integrated circuits, camera, receiver circuitry, temperature sensors, pressure sensors, motors, E2PROM etc.)
+          - testing software with debugging tools
+          - developing GUIs to test systems or use as simulators
+          - documenting, maintaining & researching
+          - guiding junior engineers
+        Badges: ['Baremetal', 'C/C++', 'C#', 'OOP', 'Agile']
+      - Title: Systems Engineers & Software Developer
+        Date: July 2010 - Sep 2016
+        Details:
+          - I worked as a software engineer for INS/GPS Systems. These devices are self-contained all attitude, worldwide, strap-down inertial system with an SA/ASM compliant EGR providing information to other vehicle systems to support navigation, time distribution, and weapon system functions. I was responsible for;
+          - planning test scenarios after gathering client expectations & writing user acceptance test procedures
+          - designing & developing an automated test software for mass production units. This software;
+            - 1) manages custom test environment with many test hardwares like power supplies, oscilloscopes, load modules, digital multi meters, signal generators, burn-in chambers, rate tables, vibration platforms etc. & all of the communications of these hardwares over RS422/232 or ethernet
+            - 2) displays a responsive GUI for test operator to see status of all test environment hardware & messages of the system under test (over RS422/232, milstd1553, arinc429 or ethernet etc.)
+            - 3) verifies the functionality of a specific unit that is under test along with user acceptance test specifications
+            - 4) creates a detailed test log for all environmental or acceptance test details
+          - building a custom automated test environments (ATE)  including test hardware in a rack system
+          - analyzing test results
+          - documenting, maintaining & researching
+        Badges: ['Baremetal', 'C', 'C#', 'TestStand', 'Matlab', 'Agile']
+      - Title: Engineer Candidate
+        Date: Jan 2010 - July 2010
+        Details:
+          - I was responsible of software development of portable night vision tester systems with PIC16F876 MCU
+        Badges: ['Baremetal', 'C', 'PIC']
+      - Title: Intern
+        Date: July 2009 - August 2009
+        Details:
+          - Trained Computer Vision and Image Analysis.
+        Badges: ['Matlab']
+
+Education:
+  - Course: Electrical & Electronics Engineering - BSc.(GPA 3.18/4.00)
+    Place: Hacettepe University
+    Date: Sep 2005 - Jun 2010
+    Details: Specialised in Embedded Systems, Computer Architectures, Signal Processing and Control Systems. Me & two friends have designed a “Quadrotor” as graduation project. The main aim of the project was to design a Quadrotor with PIC18F4420 MCU, Sparkfun 6 axis freedom gyro, ESC, 4 motors (10000rev/min, 16A) propellers, and carbon fiber skeleton. We also had a camera under quadrotor to get images or videos. There was a Kalman filter implementation by software also. Every software component in order to make quadrotor fly in a stable way, was written by ourselves.
+
+Training:
+     - Course: Embedded Linux Training - Nazım Koç
+     - Place: InfoPark, Ankara, Tr
+     - Date: 23.07.2019 (4 days)
+     - Details:
+     
+     - Course: Software Architecture Design - Bedir Tekinerdoğan
+     - Place: Aselsan, Ankara, Tr
+     - Date: 08.07.2019 (3 days)
+     - Details:
+     
+     - Course: Intel OpenVino Workshop
+     - Place: Aselsan, Ankara, Tr
+     - Date: 06.03.2019 (1 day)
+     - Details:
+     
+     - Course: Matlab – Deep Learning Workshop
+     - Place: Aselsan, Ankara, Tr
+     - Date: 04.01.2019 (1 day)
+     - Details:
+     
+     - Course: C++ Programming for Embedded Systems - Doulos
+     - Place: Electra IC, Ankara, Tr
+     - Date: 10.12.2018 (5 days)
+     - Details:
+     
+     - Course: Advanced C# Programming Language - Salih Demiroğ 
+     - Place: InfoPark, Ankara, Tr
+     - Date: 16.07.2018 (6 days)
+     - Details: Certificate Number - 2018-10388-3540
+     
+     - Course: Parallel Programming on GPU (NVIDIA CUDA programming with NVIDIA Jetson TX2  
+     - Place: METU, Informatics Institute, Ankara, Tr
+     - Date: 25.06.2018 (3 days)
+     - Details:
+     
+     - Course: System Calls in Linux - Nazım Koç
+     - Place: InfoPark, Ankara, Tr
+     - Date: 27.01.2018 (4 days)
+     - Details:
+     
+     - Course: C Programming for Embedded Systems - Doulos
+     - Place: Electra IC, Ankara, Tr
+     - Date: 13.11.2016 (4 days)
+     - Details:
+     
+     - Course: Labview Training - NI Turkey
+     - Place: Aselsan, Ankara, Tr
+     - Date: 02.09.2013 (3 days)
+     - Details:
+     
+     
+  
+Skills:
+  - Family: Programming
+    Items:
+      - C
+      - C++11
+      - C# 6.0
+      - Linux Bash
+      - HTML, XML
+      - MATLAB
+  - Family: Operating Systems
+    Items:
+      - RTOS (TI Sysbios & VxWorks 653)
+      - Baremetal
+      - Desktop(Windows & Linux)
+      - Embedded Linux
+      - Android
+  - Family: IDEs
+    Items:
+      - Visual Studio (WPF, Form)
+      - Eclipse (Code Composer Studio, MCUXpresso, Microsemi softconsole, IAR Workbench)
+      - Qt
+      - Labwindows CVI
+      - Test Stand
+      - Matlab
+      - Android Studio
+  - Family: Developer Tools
+    Items:
+      - Git with Gitlab CI
+      - Tortoise SVN
+      - Jenkins
+      - Jira
+      - Confluence
+  - Family: Processors
+    Items:
+      - TI C6000 Family (C6678)
+      - TI C2000 Family (Delfino & Piccolo)
+      - TI Tiva (Arm CortexM)
+      - TI MSP430
+      - Microsemi SmartFusion2
+      - NXP i.MX RT1050 (Arm CortexM7)
+      - NIOS
+  - Family: Comm Protocols
+    Items:
+      - DDS
+      - Uart
+      - RS32/RS422/RS485
+      - Ethernet(TCP/IP, UDP)
+      - I2C
+      - SPI
+      - CanBus
+      - MilStd1553
+      - Arinc429
+      - GPIB
+      - OneWire
+      - NMEA
+  - Family: Other Tools
+    Items:
+      - Microsoft Office
+      - Comport Tools(Teraterm, port monitor, comm operator)
+      - Wireshark
+      - CoPilot
+Languages:
+  - Name: Turkish
+    Level: Native
+  - Name: English
+    Level: Professional
+  - Name: Russian
+    Level: Beginner
+    
+Diplomas:
+  - Hacettepe University EEM - BSc.
+  - Ayrancı Anatolian Highschool
+ 
+Interests:
+  - Travelling
+  - Fitness
+  - Skiing
+  - Gaming
+  - e-Sports
+  - Comics
+  
+
+  
